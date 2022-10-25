@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Oct 21, 2022, 7:34:48 PM
+To refresh this file, delete it and run /reload command again! Last updated: Oct 25, 2022, 7:28:02 PM
 
 #minecraft:shipwreck
 - minecraft:shipwreck (from Default)
@@ -38,6 +38,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 
 #minecraft:cats_spawn_as_black
 - minecraft:swamp_hut (from Default)
+
+#alexsmobs:spawns_underminers
+- #minecraft:mineshaft (from alexsmobs-1.20.2.jar)
 
 #minecraft:village
 - minecraft:village_plains (from Default)
