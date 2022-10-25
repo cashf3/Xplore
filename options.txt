@@ -67,7 +67,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
@@ -121,6 +121,8 @@ key_key.jade.show_details:key.keyboard.left.shift
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_Reload Menu | CTRL + ALT + :key.keyboard.r
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.worldstripper.strip_world:key.keyboard.delete
 key_key.worldstripper.dress_world:key.keyboard.insert
 key_key.worldstripper.add_block:key.keyboard.page.up
@@ -138,6 +140,7 @@ key_key.pmmo.vein:key.keyboard.grave.accent
 key_key.pmmo.openMenu:key.keyboard.p
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
 soundCategory_master:1.0

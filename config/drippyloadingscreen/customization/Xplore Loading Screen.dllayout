@@ -1,0 +1,24 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = top-left
+  audio_source:190d1ceb-4089-42d0-bf3d-5d31f192ef6c1666691803049 = Dev/Jnathyn-Dioma-_NCS-Release_.ogg;EXTERNAL_LOCAL;50;0
+  loop = true
+  channel = master
+  x = 444
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 16766ea9-936a-458e-985b-a6a6c2eb25f11666691794739
+  y = 23
+  once_per_session = false
+  height = 50
+}
+
