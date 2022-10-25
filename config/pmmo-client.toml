@@ -17,7 +17,7 @@
 		#Should the vein charge data be displayed
 		"Display Veing Gauge" = true
 		#how far offset from center the gain list should be
-		"Gain List Xoffset" = 0
+		"Gain List Xoffset" = 75
 		#how far down from the top left corner the gain list should be
 		"Gain List Yoffset" = 0
 		#Should the Gain list be displayed
@@ -29,7 +29,7 @@
 		#how much xp gain hisory should display
 		"Gain List Size" = 3
 		#How long, in ticks, items on the gain list should stay on screen before disappearing
-		"Gain List Linger Duration" = 100
+		"Gain List Linger Duration" = 25
 		#skills that should now show their gains in the gain list.  this can be used to limit spammy skills
 		"Gain Blacklist" = []
 
