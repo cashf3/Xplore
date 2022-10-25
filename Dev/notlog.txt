@@ -1,2 +1,5 @@
 // NOT LOG - NOTES
 21-10-2022 - First Build
+
+25-10-2022
+0.0.3 -- Added first base mods. Performance tweaks to base package.
