@@ -2,7 +2,7 @@
 
 console.info('Hello, World! (You will see this line every time client resources reload)')
 
-JEIEvents.hideItems(event => {
-	// Hide items in JEI here
-	// event.hide('minecraft:cobblestone')
+onEvent('rei.hide.items', event => {
+  event.hide('minecraft:bedrock')
+  
 })
