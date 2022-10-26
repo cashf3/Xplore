@@ -1,6 +1,13 @@
 {
 	version: 13
-	title: "Xplore"
+	title: "Xplore Online"
+	icon: {
+		id: "endrem:magical_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
 	default_reward_team: false
 	default_consume_items: false
 	default_autoclaim_rewards: "disabled"

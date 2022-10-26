@@ -1,0 +1,43 @@
+{
+	id: "0CD925891F062F55"
+	group: "763EAD6E329D984E"
+	order_index: 0
+	filename: "about_xplore"
+	title: "About Xplore"
+	icon: "create:creative_blaze_cake"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Welcome to Xplore!"
+			x: -4.5d
+			y: -5.5d
+			subtitle: "Yes! There's fine print..."
+			description: [
+				"Fine Print Lines Here"
+				"Should probably read "
+				"this and type something"
+				"for the user to agree to."
+			]
+			id: "4B34C5B51CE9E38F"
+			tasks: [{
+				id: "400826BA4B3EC3CE"
+				type: "checkmark"
+				title: "Don't Read The Fine Print"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -2.5d
+			dependencies: ["4B34C5B51CE9E38F"]
+			hide: true
+			hide_text_until_complete: true
+			id: "4A1DE7BED1EE2E4F"
+			tasks: [{
+				id: "49CD40D35CE1E94B"
+				type: "checkmark"
+				title: "Let us walk you through the rules..."
+			}]
+		}
+	]
+}
