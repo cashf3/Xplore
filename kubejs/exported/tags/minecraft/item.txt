@@ -1,0 +1,2389 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 26, 2022, 6:45:43 PM
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:nuggets
+- #forge:nuggets/iron (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:nuggets/gold (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/tinted
+- minecraft:tinted_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:eggs
+- alexsmobs:crocodile_egg (from alexsmobs-1.20.2.jar)
+- alexsmobs:emu_egg (from alexsmobs-1.20.2.jar)
+- alexsmobs:terrapin_egg (from alexsmobs-1.20.2.jar)
+- minecraft:egg (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/gray
+- minecraft:gray_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/red
+- minecraft:red_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:rods/blaze
+- minecraft:blaze_rod (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:ores
+- #forge:ores? (from balm-4.5.3.jar)
+
+#biomesoplenty:hellbark_logs
+- biomesoplenty:hellbark_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_hellbark_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_hellbark_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:gravel
+- minecraft:gravel (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:underminer_ores
+- #forge:ores (from alexsmobs-1.20.2.jar)
+
+#forge:dyes/black
+- minecraft:black_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:music_discs
+- biomesoplenty:music_disc_wanderer (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#biomesoplenty:magic_logs
+- biomesoplenty:magic_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_magic_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_magic_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#forge:glass/colorless
+- minecraft:glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:insect_items
+- alexsmobs:maggot (from alexsmobs-1.20.2.jar)
+- alexsmobs:mosquito_larva (from alexsmobs-1.20.2.jar)
+- alexsmobs:leafcutter_ant_pupa (from alexsmobs-1.20.2.jar)
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#forge:tools/crossbows
+- minecraft:crossbow (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:diamonds
+- #forge:gems/diamonds? (from balm-4.5.3.jar)
+- minecraft:diamond (from balm-4.5.3.jar)
+
+#forge:stained_glass
+- minecraft:white_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/pink
+- minecraft:pink_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:crops/carrot
+- minecraft:carrot (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:chests
+- #forge:chests/ender (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:chests/trapped (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:chests/wooden (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores/redstone
+- #minecraft:redstone_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:nuggets/gold
+- minecraft:gold_nugget (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#forge:nether_stars
+- minecraft:nether_star (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/red
+- minecraft:red_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:yellow_dyes
+- #forge:dyes/yellow? (from balm-4.5.3.jar)
+- minecraft:yellow_dye (from balm-4.5.3.jar)
+
+#balm:iron_ingots
+- #forge:ingots/iron? (from balm-4.5.3.jar)
+- minecraft:iron_ingot (from balm-4.5.3.jar)
+
+#forge:dyes/blue
+- minecraft:blue_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/iron
+- minecraft:iron_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:tools/pickaxes
+- minecraft:wooden_pickaxe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:stone_pickaxe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_pickaxe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_pickaxe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_pickaxe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_pickaxe (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ender_pearls
+- minecraft:ender_pearl (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:gorilla_foodstuffs
+- #minecraft:leaves (from alexsmobs-1.20.2.jar)
+- minecraft:sugar_cane (from alexsmobs-1.20.2.jar)
+- minecraft:apple (from alexsmobs-1.20.2.jar)
+- minecraft:bamboo (from alexsmobs-1.20.2.jar)
+- #alexsmobs:bananas (from alexsmobs-1.20.2.jar)
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:heads
+- minecraft:creeper_head (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:dragon_head (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:player_head (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:skeleton_skull (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:wither_skeleton_skull (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:zombie_head (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:tools/axes
+- minecraft:wooden_axe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:stone_axe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_axe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_axe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_axe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_axe (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:chests/trapped
+- minecraft:trapped_chest (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:fence_gates
+- #forge:fence_gates/wooden (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:cyan_dyes
+- #forge:dyes/cyan? (from balm-4.5.3.jar)
+- minecraft:cyan_dye (from balm-4.5.3.jar)
+
+#balm:red_dyes
+- #forge:dyes/red? (from balm-4.5.3.jar)
+- minecraft:red_dye (from balm-4.5.3.jar)
+
+#forge:ingots
+- #forge:ingots/brick (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ingots/copper (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ingots/gold (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ingots/iron (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ingots/netherite (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ingots/nether_brick (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#forge:bones
+- minecraft:bone (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes
+- #forge:glass_panes/colorless (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:stained_glass_panes (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:enchanting_fuels
+- #forge:gems/lapis (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- biomesoplenty:hellbark_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_hellbark_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_hellbark_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:crops/nether_wart
+- minecraft:nether_wart (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:sandstone
+- minecraft:sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:cut_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:chiseled_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:smooth_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:red_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:cut_red_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:chiseled_red_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:smooth_red_sandstone (from forge-1.19.2-43.1.47-universal.jar)
+- biomesoplenty:black_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cut_black_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:chiseled_black_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_black_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cut_orange_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:chiseled_orange_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_orange_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cut_white_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:chiseled_white_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_white_sandstone (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:storage_blocks/copper
+- minecraft:copper_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#pmmo:brewables
+- minecraft:nether_wart (from pmmo-1.19-0.5.3.jar)
+- minecraft:redstone (from pmmo-1.19-0.5.3.jar)
+- minecraft:glowstone_dust (from pmmo-1.19-0.5.3.jar)
+- minecraft:fermented_spider_eye (from pmmo-1.19-0.5.3.jar)
+- minecraft:gunpowder (from pmmo-1.19-0.5.3.jar)
+- minecraft:dragon_breath (from pmmo-1.19-0.5.3.jar)
+- minecraft:sugar (from pmmo-1.19-0.5.3.jar)
+- minecraft:rabbit_foot (from pmmo-1.19-0.5.3.jar)
+- minecraft:glistering_melon_slice (from pmmo-1.19-0.5.3.jar)
+- minecraft:spider_eye (from pmmo-1.19-0.5.3.jar)
+- minecraft:pufferfish (from pmmo-1.19-0.5.3.jar)
+- minecraft:magma_cream (from pmmo-1.19-0.5.3.jar)
+- minecraft:golden_carrot (from pmmo-1.19-0.5.3.jar)
+- minecraft:blaze_powder (from pmmo-1.19-0.5.3.jar)
+- minecraft:ghast_tear (from pmmo-1.19-0.5.3.jar)
+- minecraft:turtle_helmet (from pmmo-1.19-0.5.3.jar)
+- minecraft:phantom_membrane (from pmmo-1.19-0.5.3.jar)
+
+#forge:mushrooms
+- minecraft:brown_mushroom (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:red_mushroom (from forge-1.19.2-43.1.47-universal.jar)
+- biomesoplenty:glowshroom (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:toadstool (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#alexsmobs:crow_foodstuffs
+- minecraft:egg (from alexsmobs-1.20.2.jar)
+- minecraft:turtle_egg (from alexsmobs-1.20.2.jar)
+- alexsmobs:crocodile_egg (from alexsmobs-1.20.2.jar)
+- alexsmobs:terrapin_egg (from alexsmobs-1.20.2.jar)
+- minecraft:sugar (from alexsmobs-1.20.2.jar)
+- #forge:seeds (from alexsmobs-1.20.2.jar)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#forge:tools/swords
+- minecraft:wooden_sword (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:stone_sword (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_sword (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_sword (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_sword (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_sword (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:crops/banana
+- alexsmobs:banana (from alexsmobs-1.20.2.jar)
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- biomesoplenty:origin_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:flowering_oak_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainbow_birch_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:yellow_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores/copper
+- #minecraft:copper_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#forge:armors/helmets
+- minecraft:leather_helmet (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:turtle_helmet (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:chainmail_helmet (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_helmet (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_helmet (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_helmet (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_helmet (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores/diamond
+- #minecraft:diamond_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+- biomesoplenty:fir_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:tools/tridents
+- minecraft:trident (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ore_rates/dense
+- minecraft:copper_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/orange
+- minecraft:orange_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:fruits/banana
+- alexsmobs:banana (from alexsmobs-1.20.2.jar)
+
+#forge:armors/boots
+- minecraft:leather_boots (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:chainmail_boots (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_boots (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_boots (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_boots (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_boots (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:obsidian
+- minecraft:obsidian (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:shoebill_foodstuffs
+- #minecraft:fishes (from alexsmobs-1.20.2.jar)
+
+#biomesoplenty:mahogany_logs
+- biomesoplenty:mahogany_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_mahogany_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_mahogany_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#alexsmobs:seal_foodstuffs
+- #minecraft:fishes (from alexsmobs-1.20.2.jar)
+- alexsmobs:lobster_tail (from alexsmobs-1.20.2.jar)
+- alexsmobs:cooked_lobster_tail (from alexsmobs-1.20.2.jar)
+
+#forge:ore_rates/singular
+- minecraft:ancient_debris (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:coal_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#forge:raw_materials/copper
+- minecraft:raw_copper (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/white
+- minecraft:white_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+- biomesoplenty:fir_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sign (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:willow_logs
+- biomesoplenty:willow_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_willow_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_willow_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+- alexsmobs:blobfish (from alexsmobs-1.20.2.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.20.2.jar)
+- alexsmobs:raw_catfish (from alexsmobs-1.20.2.jar)
+- alexsmobs:cooked_catfish (from alexsmobs-1.20.2.jar)
+
+#forge:ores/coal
+- #minecraft:coal_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:white_dyes
+- #forge:dyes/white? (from balm-4.5.3.jar)
+- minecraft:white_dye (from balm-4.5.3.jar)
+
+#forge:feathers
+- minecraft:feather (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:tools/shields
+- minecraft:shield (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:cobblestone/normal
+- minecraft:cobblestone (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:raccoon_foodstuffs
+- minecraft:egg (from alexsmobs-1.20.2.jar)
+- minecraft:turtle_egg (from alexsmobs-1.20.2.jar)
+- alexsmobs:crocodile_egg (from alexsmobs-1.20.2.jar)
+- alexsmobs:terrapin_egg (from alexsmobs-1.20.2.jar)
+- minecraft:sugar (from alexsmobs-1.20.2.jar)
+
+#balm:magenta_dyes
+- #forge:dyes/magenta? (from balm-4.5.3.jar)
+- minecraft:magenta_dye (from balm-4.5.3.jar)
+
+#balm:light_gray_dyes
+- #forge:dyes/light_gray? (from balm-4.5.3.jar)
+- minecraft:light_gray_dye (from balm-4.5.3.jar)
+
+#forge:string
+- minecraft:string (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:sand/colorless
+- minecraft:sand (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#forge:raw_materials/iron
+- minecraft:raw_iron (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ingots/gold
+- minecraft:gold_ingot (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:leather
+- minecraft:leather (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:gems
+- #forge:gems? (from balm-4.5.3.jar)
+
+#balm:stones
+- #forge:stone? (from balm-4.5.3.jar)
+- minecraft:andesite (from balm-4.5.3.jar)
+- minecraft:diorite (from balm-4.5.3.jar)
+- minecraft:granite (from balm-4.5.3.jar)
+- minecraft:infested_stone (from balm-4.5.3.jar)
+- minecraft:stone (from balm-4.5.3.jar)
+- minecraft:polished_andesite (from balm-4.5.3.jar)
+- minecraft:polished_diorite (from balm-4.5.3.jar)
+- minecraft:polished_granite (from balm-4.5.3.jar)
+- minecraft:deepslate (from balm-4.5.3.jar)
+- minecraft:polished_deepslate (from balm-4.5.3.jar)
+- minecraft:infested_deepslate (from balm-4.5.3.jar)
+- minecraft:tuff (from balm-4.5.3.jar)
+
+#forge:glass
+- #forge:glass/colorless (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:glass/tinted (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:eggs
+- #forge:eggs? (from balm-4.5.3.jar)
+- minecraft:egg (from balm-4.5.3.jar)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+- biomesoplenty:fir_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:nuggets/iron
+- minecraft:iron_nugget (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:light_blue_dyes
+- #forge:dyes/light_blue? (from balm-4.5.3.jar)
+- minecraft:light_blue_dye (from balm-4.5.3.jar)
+
+#forge:armors
+- #forge:armors/helmets (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:armors/chestplates (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:armors/leggings (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:armors/boots (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+- biomesoplenty:origin_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:flowering_oak_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainbow_birch_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:yellow_autumn_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_autumn_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_cherry_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_cherry_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_leaves (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:gems/diamond
+- minecraft:diamond (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+- biomesoplenty:black_sandstone_wall (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_sandstone_wall (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_sandstone_wall (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:green_dyes
+- #forge:dyes/green? (from balm-4.5.3.jar)
+- minecraft:green_dye (from balm-4.5.3.jar)
+
+#forge:glass/green
+- minecraft:green_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#itemfilters:filters
+- itemfilters:always_true (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:always_false (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:or (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:and (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:not (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:xor (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:tag (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:mod (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:item_group (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:id_regex (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:damage (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:block (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:max_count (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:strong_nbt (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:weak_nbt (from item-filters-forge-1902.2.9-build.41.jar)
+- itemfilters:custom (from item-filters-forge-1902.2.9-build.41.jar)
+
+#forge:crops/potato
+- minecraft:potato (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:gray_dyes
+- #forge:dyes/gray? (from balm-4.5.3.jar)
+- minecraft:gray_dye (from balm-4.5.3.jar)
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:pink_dyes
+- #forge:dyes/pink? (from balm-4.5.3.jar)
+- minecraft:pink_dye (from balm-4.5.3.jar)
+
+#alexsmobs:raccoon_dissolves
+- minecraft:sugar (from alexsmobs-1.20.2.jar)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+- biomesoplenty:music_disc_wanderer (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:gems
+- #forge:gems/amethyst (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:gems/diamond (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:gems/emerald (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:gems/lapis (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:gems/prismarine (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:gems/quartz (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:sand/red
+- minecraft:red_sand (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+- biomesoplenty:black_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rooted_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:end_stones
+- minecraft:end_stone (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:emeralds
+- #forge:gems/emeralds? (from balm-4.5.3.jar)
+- minecraft:emerald (from balm-4.5.3.jar)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#balm:ingots
+- #forge:ingots? (from balm-4.5.3.jar)
+
+#forge:glass/brown
+- minecraft:brown_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:fir_logs
+- biomesoplenty:fir_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_fir_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_fir_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+- #biomesoplenty:fir_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:redwood_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:cherry_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:mahogany_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:jacaranda_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:palm_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:willow_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:dead_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:magic_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:umbran_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:fences/wooden
+- #minecraft:wooden_fences (from forge-1.19.2-43.1.47-universal.jar)
+- biomesoplenty:fir_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_fence (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#sereneseasons:summer_crops
+- biomesoplenty:origin_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:flowering_oak_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainbow_birch_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:yellow_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spanish_moss (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spanish_moss_plant (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:toadstool (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowshroom (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks
+- #forge:storage_blocks/amethyst (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/coal (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/copper (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/diamond (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/emerald (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/gold (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/iron (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/lapis (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/quartz (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/raw_copper (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/raw_gold (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/raw_iron (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/redstone (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:storage_blocks/netherite (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/gray
+- minecraft:gray_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+
+#forge:ingots/copper
+- minecraft:copper_ingot (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:blue_dyes
+- minecraft:blue_dye (from balm-4.5.3.jar)
+- #forge:dyes/blue? (from balm-4.5.3.jar)
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+- biomesoplenty:fir_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:ingots/brick
+- minecraft:brick (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/white
+- minecraft:white_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:cooking_oil
+- forge:cookingoil? (from balm-4.5.3.jar)
+
+#alexsmobs:animal_dictionary_ingredient
+- alexsmobs:crocodile_scute (from alexsmobs-1.20.2.jar)
+- alexsmobs:bear_fur (from alexsmobs-1.20.2.jar)
+- alexsmobs:roadrunner_feather (from alexsmobs-1.20.2.jar)
+- alexsmobs:gazelle_horn (from alexsmobs-1.20.2.jar)
+- alexsmobs:rattlesnake_rattle (from alexsmobs-1.20.2.jar)
+- alexsmobs:komodo_spit (from alexsmobs-1.20.2.jar)
+- alexsmobs:centipede_leg (from alexsmobs-1.20.2.jar)
+- alexsmobs:moose_antler (from alexsmobs-1.20.2.jar)
+- alexsmobs:raccoon_tail (from alexsmobs-1.20.2.jar)
+- alexsmobs:cockroach_wing (from alexsmobs-1.20.2.jar)
+- alexsmobs:spiked_scute (from alexsmobs-1.20.2.jar)
+- alexsmobs:straddlite (from alexsmobs-1.20.2.jar)
+- alexsmobs:emu_feather (from alexsmobs-1.20.2.jar)
+- alexsmobs:dropbear_claw (from alexsmobs-1.20.2.jar)
+- alexsmobs:cachalot_whale_tooth (from alexsmobs-1.20.2.jar)
+- alexsmobs:capsid (from alexsmobs-1.20.2.jar)
+- alexsmobs:rocky_shell (from alexsmobs-1.20.2.jar)
+
+#forge:glass/blue
+- minecraft:blue_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#forge:tools/bows
+- minecraft:bow (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+- biomesoplenty:rose (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:violet (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wildflower (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_cosmos (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_daffodil (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_hibiscus (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowflower (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wilted_lily (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:burning_blossom (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+- biomesoplenty:fir_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_trapdoor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/coal
+- minecraft:coal_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dusts/redstone
+- minecraft:redstone (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/pink
+- minecraft:pink_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#forge:gems/quartz
+- minecraft:quartz (from forge-1.19.2-43.1.47-universal.jar)
+
+#sereneseasons:winter_crops
+- biomesoplenty:origin_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:flowering_oak_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainbow_birch_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:yellow_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:toadstool (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowshroom (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:crops/beetroot
+- minecraft:beetroot (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- biomesoplenty:black_sandstone_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_black_sandstone_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_sandstone_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_orange_sandstone_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_sandstone_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_white_sandstone_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:seeds/melon
+- minecraft:melon_seeds (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+- #biomesoplenty:fir_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:redwood_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:cherry_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:mahogany_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:jacaranda_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:palm_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:willow_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:dead_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:magic_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:umbran_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #biomesoplenty:hellbark_logs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:crops/wheat
+- minecraft:wheat (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#forge:raw_materials/gold
+- minecraft:raw_gold (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:grizzly_foodstuffs
+- #alexsmobs:grizzly_honey (from alexsmobs-1.20.2.jar)
+- minecraft:salmon (from alexsmobs-1.20.2.jar)
+- minecraft:bee_nest (from alexsmobs-1.20.2.jar)
+- minecraft:beetroot (from alexsmobs-1.20.2.jar)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- alexsmobs:shark_tooth_arrow (from alexsmobs-1.20.2.jar)
+
+#forge:tools/fishing_rods
+- minecraft:fishing_rod (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:stone
+- minecraft:andesite (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diorite (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:granite (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:infested_stone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:stone (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:polished_andesite (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:polished_diorite (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:polished_granite (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:polished_deepslate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:infested_deepslate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:tuff (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+- biomesoplenty:fir_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_door (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:tools/hoes
+- minecraft:wooden_hoe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:stone_hoe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_hoe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_hoe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_hoe (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_hoe (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#sereneseasons:autumn_crops
+- biomesoplenty:origin_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:flowering_oak_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainbow_birch_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:yellow_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:toadstool (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowshroom (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass/purple
+- minecraft:purple_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:gunpowder
+- minecraft:gunpowder (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:tools/shovels
+- minecraft:wooden_shovel (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:stone_shovel (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_shovel (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_shovel (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_shovel (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_shovel (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/magenta
+- minecraft:magenta_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#balm:wooden_rods
+- #forge:rods/wooden? (from balm-4.5.3.jar)
+- minecraft:stick (from balm-4.5.3.jar)
+
+#alexsmobs:platypus_foodstuffs
+- minecraft:redstone (from alexsmobs-1.20.2.jar)
+- minecraft:redstone_block (from alexsmobs-1.20.2.jar)
+- alexsmobs:mosquito_larva (from alexsmobs-1.20.2.jar)
+- alexsmobs:maggot (from alexsmobs-1.20.2.jar)
+- alexsmobs:mosquito_larva (from alexsmobs-1.20.2.jar)
+- #minecraft:fishes (from alexsmobs-1.20.2.jar)
+- alexsmobs:lobster_tail (from alexsmobs-1.20.2.jar)
+- alexsmobs:cooked_lobster_tail (from alexsmobs-1.20.2.jar)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#biomesoplenty:cherry_logs
+- biomesoplenty:cherry_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_cherry_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_cherry_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#forge:dyes/cyan
+- minecraft:cyan_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#pmmo:smeltables
+- minecraft:raw_iron (from pmmo-1.19-0.5.3.jar)
+- minecraft:iron_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_iron_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:raw_copper (from pmmo-1.19-0.5.3.jar)
+- minecraft:copper_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_copper_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:raw_gold (from pmmo-1.19-0.5.3.jar)
+- minecraft:gold_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_gold_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:nether_gold_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:ancient_debris (from pmmo-1.19-0.5.3.jar)
+- minecraft:diamond_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_diamond_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:lapis_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_lapis_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:redstone_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_redstone_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:emerald_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_emerald_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:coal_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_coal_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:nether_quartz_ore (from pmmo-1.19-0.5.3.jar)
+- minecraft:sand (from pmmo-1.19-0.5.3.jar)
+- minecraft:red_sand (from pmmo-1.19-0.5.3.jar)
+- minecraft:sandstone (from pmmo-1.19-0.5.3.jar)
+- minecraft:cobblestone (from pmmo-1.19-0.5.3.jar)
+- minecraft:stone (from pmmo-1.19-0.5.3.jar)
+- minecraft:quartz_block (from pmmo-1.19-0.5.3.jar)
+- minecraft:clay_ball (from pmmo-1.19-0.5.3.jar)
+- minecraft:netherrack (from pmmo-1.19-0.5.3.jar)
+- minecraft:nether_bricks (from pmmo-1.19-0.5.3.jar)
+- minecraft:basalt (from pmmo-1.19-0.5.3.jar)
+- minecraft:clay (from pmmo-1.19-0.5.3.jar)
+- minecraft:stone_bricks (from pmmo-1.19-0.5.3.jar)
+- minecraft:polished_blackstone_bricks (from pmmo-1.19-0.5.3.jar)
+- minecraft:cobbled_deepslate (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_bricks (from pmmo-1.19-0.5.3.jar)
+- minecraft:deepslate_tiles (from pmmo-1.19-0.5.3.jar)
+- minecraft:terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:white_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:orange_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:magenta_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:light_blue_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:yellow_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:lime_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:pink_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:gray_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:light_gray_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:cyan_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:purple_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:blue_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:brown_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:green_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:red_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:black_terracotta (from pmmo-1.19-0.5.3.jar)
+- minecraft:cactus (from pmmo-1.19-0.5.3.jar)
+- minecraft:oak_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:birch_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:jungle_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:acacia_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:dark_oak_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:spruce_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_oak_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_birch_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_jungle_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_acacia_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_dark_oak_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_spruce_log (from pmmo-1.19-0.5.3.jar)
+- minecraft:oak_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:birch_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:jungle_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:acacia_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:dark_oak_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:spruce_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_oak_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_birch_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_jungle_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_acacia_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_dark_oak_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:stripped_spruce_wood (from pmmo-1.19-0.5.3.jar)
+- minecraft:chorus_fruit (from pmmo-1.19-0.5.3.jar)
+- minecraft:wet_sponge (from pmmo-1.19-0.5.3.jar)
+- minecraft:sea_pickle (from pmmo-1.19-0.5.3.jar)
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:crops
+- #forge:crops/beetroot (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:crops/carrot (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:crops/nether_wart (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:crops/potato (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:crops/wheat (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ingots/iron
+- minecraft:iron_ingot (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:crops/rice
+
+#alexsmobs:mimic_octopus_guardian_items
+- minecraft:prismarine_shard (from alexsmobs-1.20.2.jar)
+- minecraft:prismarine_crystals (from alexsmobs-1.20.2.jar)
+
+#forge:dyes/purple
+- minecraft:purple_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:nuggets
+- #forge:nuggets? (from balm-4.5.3.jar)
+
+#balm:iron_nuggets
+- #forge:nuggets/iron? (from balm-4.5.3.jar)
+- minecraft:iron_nugget (from balm-4.5.3.jar)
+
+#forge:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:grizzly_honey
+- minecraft:honeycomb (from alexsmobs-1.20.2.jar)
+- minecraft:honey_block (from alexsmobs-1.20.2.jar)
+- minecraft:honeycomb_block (from alexsmobs-1.20.2.jar)
+- minecraft:honey_bottle (from alexsmobs-1.20.2.jar)
+
+#itemfilters:check_nbt
+- minecraft:potion (from item-filters-forge-1902.2.9-build.41.jar)
+- minecraft:splash_potion (from item-filters-forge-1902.2.9-build.41.jar)
+- minecraft:lingering_potion (from item-filters-forge-1902.2.9-build.41.jar)
+- minecraft:enchanted_book (from item-filters-forge-1902.2.9-build.41.jar)
+- minecraft:tipped_arrow (from item-filters-forge-1902.2.9-build.41.jar)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#forge:sand
+- #forge:sand/colorless (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:sand/red (from forge-1.19.2-43.1.47-universal.jar)
+- biomesoplenty:black_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_sand (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:elephant_foodstuffs
+- #minecraft:leaves (from alexsmobs-1.20.2.jar)
+- #minecraft:saplings (from alexsmobs-1.20.2.jar)
+- minecraft:sugar_cane (from alexsmobs-1.20.2.jar)
+- minecraft:apple (from alexsmobs-1.20.2.jar)
+- minecraft:beetroot (from alexsmobs-1.20.2.jar)
+- minecraft:potato (from alexsmobs-1.20.2.jar)
+- minecraft:carrot (from alexsmobs-1.20.2.jar)
+- minecraft:golden_carrot (from alexsmobs-1.20.2.jar)
+- minecraft:baked_potato (from alexsmobs-1.20.2.jar)
+- minecraft:hay_block (from alexsmobs-1.20.2.jar)
+- minecraft:bamboo (from alexsmobs-1.20.2.jar)
+- #alexsmobs:bananas (from alexsmobs-1.20.2.jar)
+- alexsmobs:acacia_blossom (from alexsmobs-1.20.2.jar)
+- minecraft:melon_slice (from alexsmobs-1.20.2.jar)
+- minecraft:sweet_berries (from alexsmobs-1.20.2.jar)
+
+#forge:dyes/yellow
+- minecraft:yellow_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dusts
+- #forge:dusts/glowstone (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dusts/prismarine (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dusts/redstone (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:bananas
+- #forge:crops/banana (from alexsmobs-1.20.2.jar)
+- #forge:fruits/banana (from alexsmobs-1.20.2.jar)
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:seeds
+- #forge:seeds/beetroot (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:seeds/melon (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:seeds/pumpkin (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:seeds/wheat (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#forge:ores/gold
+- #minecraft:gold_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#forge:raw_materials
+- #forge:raw_materials/copper (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:raw_materials/gold (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:raw_materials/iron (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:barrels
+- #forge:barrels/wooden (from forge-1.19.2-43.1.47-universal.jar)
+
+#alexsmobs:bald_eagle_tameables
+- alexsmobs:fish_oil (from alexsmobs-1.20.2.jar)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#alexsmobs:shrimp_rice_fryables
+- #forge:crops/rice (from alexsmobs-1.20.2.jar)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+
+#forge:ores/lapis
+- #minecraft:lapis_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:palm_logs
+- biomesoplenty:palm_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_palm_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_palm_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass/black
+- minecraft:black_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:dead_logs
+- biomesoplenty:dead_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_dead_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_dead_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#alexsmobs:tiger_breedables
+- alexsmobs:acacia_blossom (from alexsmobs-1.20.2.jar)
+
+#forge:slimeballs
+- minecraft:slime_ball (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:armors/leggings
+- minecraft:leather_leggings (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:chainmail_leggings (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_leggings (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_leggings (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_leggings (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_leggings (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:rods
+- #forge:rods/blaze (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:rods/wooden (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass/lime
+- minecraft:lime_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:gold_nuggets
+- #forge:nuggets/gold? (from balm-4.5.3.jar)
+- minecraft:gold_nugget (from balm-4.5.3.jar)
+
+#forge:chests/wooden
+- minecraft:chest (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:trapped_chest (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores/iron
+- #minecraft:iron_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#alexsmobs:mimic_octopus_creeper_items
+- minecraft:gunpowder (from alexsmobs-1.20.2.jar)
+- minecraft:creeper_head (from alexsmobs-1.20.2.jar)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- alexsmobs:animal_dictionary (from alexsmobs-1.20.2.jar)
+
+#forge:gems/emerald
+- minecraft:emerald (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:chests/ender
+- minecraft:ender_chest (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:armors/chestplates
+- minecraft:leather_chestplate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:chainmail_chestplate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_chestplate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:golden_chestplate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_chestplate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:netherite_chestplate (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:brown_dyes
+- #forge:dyes/brown? (from balm-4.5.3.jar)
+- minecraft:brown_dye (from balm-4.5.3.jar)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+- biomesoplenty:fir_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_stairs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#alexsmobs:void_worm_drops
+- alexsmobs:void_worm_mandible (from alexsmobs-1.20.2.jar)
+- alexsmobs:void_worm_eye (from alexsmobs-1.20.2.jar)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+- biomesoplenty:fir_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_button (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:tools
+- #forge:tools/swords (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/axes (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/pickaxes (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/shovels (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/hoes (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/shields (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/bows (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/crossbows (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/fishing_rods (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:tools/tridents (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:umbran_logs
+- biomesoplenty:umbran_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_umbran_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_umbran_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:spruce_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:birch_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:jungle_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:acacia_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:dark_oak_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:crimson_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:warped_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:mangrove_fence_gate (from forge-1.19.2-43.1.47-universal.jar)
+- biomesoplenty:fir_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_fence_gate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:black_dyes
+- minecraft:black_dye (from balm-4.5.3.jar)
+- #forge:dyes/black? (from balm-4.5.3.jar)
+
+#forge:glass/orange
+- minecraft:orange_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:shears
+- minecraft:shears (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+- biomesoplenty:fir_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_chest_boat (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:dyes/green
+- minecraft:green_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#sereneseasons:spring_crops
+- biomesoplenty:origin_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:flowering_oak_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainbow_birch_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:yellow_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_autumn_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pink_cherry_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_sapling (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:toadstool (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowshroom (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- biomesoplenty:black_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cut_black_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_black_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orange_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cut_orange_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_orange_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:white_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cut_white_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:smooth_white_sandstone_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_slab (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#balm:purple_dyes
+- #forge:dyes/purple? (from balm-4.5.3.jar)
+- minecraft:purple_dye (from balm-4.5.3.jar)
+
+#forge:ores/emerald
+- #minecraft:emerald_ores (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:lime_dyes
+- #forge:dyes/lime? (from balm-4.5.3.jar)
+- minecraft:lime_dye (from balm-4.5.3.jar)
+
+#balm:wooden_chests
+- #forge:chests/wooden? (from balm-4.5.3.jar)
+- minecraft:chest (from balm-4.5.3.jar)
+- minecraft:trapped_chest (from balm-4.5.3.jar)
+
+#forge:dyes/lime
+- minecraft:lime_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:dyes
+- #forge:dyes? (from balm-4.5.3.jar)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- alexsmobs:acacia_blossom (from alexsmobs-1.20.2.jar)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+- biomesoplenty:fir_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_planks (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#forge:cobblestone
+- #forge:cobblestone/normal (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:cobblestone/infested (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:cobblestone/mossy (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:cobblestone/deepslate (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#alexsmobs:mimic_octopus_pufferfish_items
+- minecraft:pufferfish (from alexsmobs-1.20.2.jar)
+- minecraft:pufferfish_bucket (from alexsmobs-1.20.2.jar)
+
+#forge:gems/amethyst
+- minecraft:amethyst_shard (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:barrels/wooden
+- minecraft:barrel (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+- biomesoplenty:fir_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:glass/silica
+- minecraft:glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:white_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:dyes/brown
+- minecraft:brown_dye (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/gold
+- minecraft:gold_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores
+- #forge:ores/coal (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/copper (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/diamond (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/emerald (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/gold (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/iron (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/lapis (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/redstone (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/quartz (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:ores/netherite_scrap (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+- biomesoplenty:fir_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mahogany_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:palm_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:willow_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:magic_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:umbran_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:hellbark_pressure_plate (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+- biomesoplenty:tall_lavender (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:blue_hydrangea (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:goldenrod (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:icy_iris (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:rods/wooden
+- minecraft:stick (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:redwood_logs
+- biomesoplenty:redwood_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_redwood_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_redwood_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard (from forge-1.19.2-43.1.47-universal.jar)
+
+#biomesoplenty:jacaranda_logs
+- biomesoplenty:jacaranda_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jacaranda_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_jacaranda_log (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:stripped_jacaranda_wood (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:fences
+- #forge:fences/nether_brick (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:fences/wooden (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:bookshelves
+- minecraft:bookshelf (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ores_in_ground/stone
+- minecraft:coal_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:copper_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.1.47-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.1.47-universal.jar)
+
+#balm:orange_dyes
+- #forge:dyes/orange? (from balm-4.5.3.jar)
+- minecraft:orange_dye (from balm-4.5.3.jar)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#forge:dyes
+- #forge:dyes/white (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/orange (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/magenta (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/light_blue (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/yellow (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/lime (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/pink (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/gray (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/light_gray (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/cyan (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/purple (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/blue (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/brown (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/green (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/red (from forge-1.19.2-43.1.47-universal.jar)
+- #forge:dyes/black (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+
+#forge:heart
+- alexsmobs:soul_heart (from alexsmobs-1.20.2.jar)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#forge:netherrack
+- minecraft:netherrack (from forge-1.19.2-43.1.47-universal.jar)
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate (from forge-1.19.2-43.1.47-universal.jar)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- alexsmobs:ghostly_pickaxe (from alexsmobs-1.20.2.jar)
