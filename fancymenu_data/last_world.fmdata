@@ -2,6 +2,5 @@ type = last_world
 
 last_world {
   is_server = false
-  world = 
+  world =
 }
-
