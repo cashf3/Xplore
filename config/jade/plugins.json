@@ -44,6 +44,13 @@
     "redstone": true,
     "fe": true
   },
+  "create": {
+    "contraption_inv": true,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "placard": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
